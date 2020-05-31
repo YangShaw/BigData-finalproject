@@ -1,5 +1,5 @@
 
-# 使用springboot写一个登录界面
+# 项目后端
 
 ## 用到的知识
 
@@ -13,15 +13,5 @@
 
 - [Java注解等知识](https://github.com/YangShaw/LearningNotes/blob/master/notes/java.md)
 
-- Thymeleaf模板引擎
-在项目中使用该模板引擎，maven配置为：
-```
-<dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-thymeleaf</artifactId>
-</dependency>
-```
 
-- 使用bootstrap框架
-在官网下载后将bootstrap的相关文件放到项目的resource/static文件夹中，在html文件中引用即可。也可以用bootstrap官网上提供的其他引入方式。
 
